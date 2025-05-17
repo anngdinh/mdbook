@@ -4,8 +4,10 @@
 
 - [Writing Task 1](#writing-task-1)
   - [Catalogue](#catalogue)
+  - [Công thức](#công-thức)
+    - [Line graph](#line-graph)
   - [Summary](#summary)
-  - [Line graph](#line-graph)
+  - [Line graph](#line-graph-1)
     - [Line 1](#line-1)
     - [Line 2](#line-2)
     - [Line 3](#line-3)
@@ -16,6 +18,23 @@
   - [Process](#process)
   - [Map](#map)
   - [Multiple chart](#multiple-chart)
+
+## Công thức
+
+### Line graph
+
+- Introduction
+  - The line graph illustrates the amount of goods transported by road, water, rail and pipeline in the UK from 1974 to 2002.
+- Overview
+  - Có 2 xu hướng khác nhau trong biểu đồ:
+    - `while the _______ increased significantly, the figure for ______ was opposite.`
+  - Có những đường dao động nhẹ trong biểu đồ:
+    - `the figure for _______ fluctuated slightly to ________`
+    - `______ experienced fluctuations over the period, but ...`
+  - Có 1 đường duy trì sự lớn nhất trong biểu đồ (gần như hầu hêt các năm):
+    - `Notably, _______ maintained the lowest/highest throughout the most of the given years.`
+- Body 1
+- Body 2
 
 ## Summary
 
@@ -63,7 +82,7 @@
   - > roughly double
   - > negligible difference
   - > remain unchanged, experience no changes
-  - 
+  -
 
 ## Line graph
 
